@@ -17,7 +17,7 @@
 #### Условие:
 Задача 58: Задайте две матрицы. Напишите программу, которая будет находить произведение двух матриц.
 #### Решение:
-![58](https://github.com/VyacheslavChik22/HomeworkGB_C_008/assets/99678206/a2313bcf-6ed3-4bf9-9a3a-caa9d40303e7)
+![58](https://github.com/VyacheslavChik22/HomeworkGB_C_008/assets/99678206/ffb3c72c-cdac-4636-ae80-871c8443cfec)
 
 ### Задача № 60
 #### Условие:
